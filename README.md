@@ -1,4 +1,4 @@
-# Frontend Mentor - Fylo landing page with two column layout solution
+# Frontend Mentor - Fylo landing page with two column layout 
 
 
 ### Welcome
